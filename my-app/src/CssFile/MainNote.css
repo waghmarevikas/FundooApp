@@ -5,6 +5,14 @@
         margin: 10px;
         flex-direction: column;
     }
+
+    .pinImage {
+        display: flex;
+        margin-right:'3px';
+        margin-top: '0px';
+        margin-left: '3px';
+    }
+    
     /* .root1 {
         padding : '2px 4px';
         display : 'flex';
